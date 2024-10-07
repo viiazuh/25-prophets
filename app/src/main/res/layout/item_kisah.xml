@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/image_kisah"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@string/image_desc"
+            android:src="@drawable/ic_launcher_background" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingStart="8dp">
+
+            <TextView
+                android:id="@+id/text_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Judul Kisah"
+                android:textStyle="bold"
+                android:textSize="16sp" />
+
+            <!-- Deskripsi Nabi Adam -->
+            <TextView
+                android:id="@+id/text_description_adam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Adam adalah manusia pertama."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Idris -->
+            <TextView
+                android:id="@+id/text_description_idris"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Idris dikenal sebagai nabi yang cerdas."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Nuh -->
+            <TextView
+                android:id="@+id/text_description_nuh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Nuh diutus untuk memperingatkan kaumnya."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Hud -->
+            <TextView
+                android:id="@+id/text_description_hud"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Hud diutus untuk kaum 'Aad."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Saleh -->
+            <TextView
+                android:id="@+id/text_description_saleh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Saleh diutus kepada kaum Tsamud."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Ibrahim -->
+            <TextView
+                android:id="@+id/text_description_ibrahim"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Ibrahim dikenal sebagai bapak para nabi."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Lut -->
+            <TextView
+                android:id="@+id/text_description_lut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Lut diutus untuk memperingatkan kaumnya tentang perbuatan mereka."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Ismail -->
+            <TextView
+                android:id="@+id/text_description_ismail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Ismail adalah putra Nabi Ibrahim."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Ishaq -->
+            <TextView
+                android:id="@+id/text_description_ishaq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Ishaq adalah putra Nabi Ibrahim dan saudara Nabi Ismail."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Yaqub -->
+            <TextView
+                android:id="@+id/text_description_yaqub"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Yaqub dikenal juga sebagai Israel."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Yusuf -->
+            <TextView
+                android:id="@+id/text_description_yusuf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Yusuf dikenal karena kecantikannya dan kisahnya di Mesir."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Syu'aib -->
+            <TextView
+                android:id="@+id/text_description_shuayb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Syu'aib diutus kepada kaum Madyan."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Ayyub -->
+            <TextView
+                android:id="@+id/text_description_ayyub"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Ayyub dikenal karena kesabarannya menghadapi ujian."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Dhulkifli -->
+            <TextView
+                android:id="@+id/text_description_dhul_kifl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Dhulkifli dikenal sebagai nabi yang sabar."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Musa -->
+            <TextView
+                android:id="@+id/text_description_musa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Musa diutus untuk membebaskan Bani Israel dari perbudakan."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Harun -->
+            <TextView
+                android:id="@+id/text_description_harun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Harun adalah saudara Nabi Musa."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Dawud -->
+            <TextView
+                android:id="@+id/text_description_dawud"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Dawud dikenal sebagai raja dan pemimpin yang adil."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Sulayman -->
+            <TextView
+                android:id="@+id/text_description_sulayman"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Sulayman adalah raja yang memiliki kebijaksanaan dan kekuasaan."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Ilyas -->
+            <TextView
+                android:id="@+id/text_description_ilyas"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Ilyas diutus untuk menyeru kaumnya agar kembali kepada Allah."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Ilyasa -->
+            <TextView
+                android:id="@+id/text_description_ilyasa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Ilyasa adalah penerus Nabi Ilyas."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Yunus -->
+            <TextView
+                android:id="@+id/text_description_yunus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Yunus diutus kepada kaum Ninawa dan mengalami peristiwa di dalam perut ikan."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Zakaria -->
+            <TextView
+                android:id="@+id/text_description_zakaria"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Zakaria adalah ayah dari Nabi Yahya."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Yahya -->
+            <TextView
+                android:id="@+id/text_description_yahya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Yahya adalah nabi yang taat dan dikenal sebagai pembawa berita baik."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Isa -->
+            <TextView
+                android:id="@+id/text_description_isa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Isa diutus untuk membimbing Bani Israel."
+                android:textSize="14sp" />
+
+            <!-- Deskripsi Nabi Muhammad -->
+            <TextView
+                android:id="@+id/text_description_muhammad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nabi Muhammad adalah nabi terakhir dan penutup para nabi."
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

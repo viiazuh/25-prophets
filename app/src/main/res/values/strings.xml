@@ -1,0 +1,185 @@
+<resources>
+        <string name="app_name">25 Kisah Nabi dan Rasul</string>
+        <string name="image_desc">Gambar Nabi</string>
+
+        <string-array name="deskripsi_kisah">
+            <item>Deskripsi Nabi Adam AS: Nabi Adam AS adalah manusia pertama yang diciptakan oleh Allah. Ia diciptakan dari tanah dan diberi ruh oleh-Nya. Adam AS tinggal di Surga bersama Hawa, tetapi setelah melanggar perintah Allah untuk tidak mendekati pohon terlarang, mereka diusir ke Bumi. Sebagai Nabi pertama, Adam AS memiliki tugas untuk mengajarkan umat manusia tentang keesaan Allah, dan menjadi nenek moyang seluruh umat manusia.</item>
+            <item>Deskripsi Nabi Idris AS: Nabi Idris AS dikenal sebagai seorang yang sangat saleh dan pandai. Ia adalah orang pertama yang menulis dengan pena. Idris AS juga dikenal karena doanya yang sangat kuat dan sering kali menyebarkan ajaran Allah.</item>
+            <item>Deskripsi Nabi Nuh AS: Nabi Nuh AS adalah rasul yang diutus untuk memperingatkan umatnya tentang azab Allah. Ia membangun kapal besar untuk menyelamatkan keluarganya dan hewan-hewan dari banjir besar yang dikirim oleh Allah sebagai hukuman bagi kaum yang ingkar.</item>
+            <item>Deskripsi Nabi Hud AS: Nabi Hud AS diutus untuk kaumnya, kaum Aad, yang sangat kuat tetapi ingkar kepada Allah. Ia menyeru mereka untuk bertobat, tetapi mereka menolak dan akhirnya dihukum dengan angin yang kencang.</item>
+            <item>Deskripsi Nabi Saleh AS: Nabi Saleh AS diutus kepada kaum Tsamud, yang meminta tanda dari Allah. Allah mengutus unta sebagai mukjizat, tetapi mereka membunuh unta itu dan dihukum dengan gempa bumi yang dahsyat.</item>
+            <item>Deskripsi Nabi Ibrahim AS: Nabi Ibrahim AS dikenal sebagai bapak para nabi. Ia dikenal karena ketaatannya kepada Allah dan siap mengorbankan putranya, Ismail, sebagai bentuk ketaatan, tetapi Allah menggantikannya dengan domba.</item>
+            <item>Deskripsi Nabi Lut AS: Nabi Lut AS adalah keponakan Nabi Ibrahim AS dan diutus kepada kaum Sodom yang melakukan perbuatan dosa. Ia memperingatkan mereka, tetapi mereka menolak dan dihukum dengan hujan batu.</item>
+            <item>Deskripsi Nabi Ismail AS: Nabi Ismail AS adalah putra Nabi Ibrahim AS dan Hawa. Ia dikenal karena kesabaran dan ketekunannya dalam beribadah, serta menjadi nenek moyang bangsa Arab.</item>
+            <item>Deskripsi Nabi Ishaq AS: Nabi Ishaq AS adalah putra Nabi Ibrahim AS dan merupakan ayah dari Nabi Yaqub AS. Ia juga dikenal sebagai nabi yang taat dan pengikut ajaran ayahnya.</item>
+            <item>Deskripsi Nabi Yaqub AS: Nabi Yaqub AS, yang juga dikenal sebagai Israel, adalah putra Nabi Ishaq AS dan dikenal karena kesabarannya dan kasih sayangnya kepada anak-anaknya, terutama kepada Nabi Yusuf AS.</item>
+            <item>Deskripsi Nabi Yusuf AS: Nabi Yusuf AS, putra Nabi Yaqub AS, memiliki keindahan fisik dan kemampuan menafsirkan mimpi. Ia dijual sebagai budak tetapi kemudian menjadi penguasa Mesir dan menyelamatkan keluarganya dari kelaparan.</item>
+            <item>Deskripsi Nabi Syuaib AS: Nabi Syuaib AS diutus kepada kaum Madyan, yang terkenal dengan kecurangan dalam timbangan dan pengukuran. Ia menyeru mereka untuk bertobat, tetapi mereka menolak dan dihukum oleh Allah.</item>
+            <item>Deskripsi Nabi Ayyub AS: Nabi Ayyub AS dikenal karena kesabarannya dalam menghadapi ujian penyakit dan kehilangan. Meskipun diuji, ia tetap beriman kepada Allah dan akhirnya dipulihkan.</item>
+            <item>Deskripsi Nabi Dhulkifli AS: Nabi Dhulkifli AS diutus untuk menyebarkan ajaran Allah. Ia dikenal karena kesabaran dan ketekunannya dalam menjalankan misi dakwah.</item>
+            <item>Deskripsi Nabi Musa AS: Nabi Musa AS diutus kepada Bani Israil untuk membebaskan mereka dari perbudakan di Mesir. Ia dikenal dengan mukjizatnya, seperti membelah Laut Merah, dan menerima wahyu Allah berupa Taurat.</item>
+            <item>Deskripsi Nabi Harun AS: Nabi Harun AS adalah saudara Nabi Musa AS dan menjadi pembantunya dalam menyampaikan wahyu kepada Bani Israil. Ia juga diutus untuk membimbing umat dalam menjalankan ajaran Allah.</item>
+            <item>Deskripsi Nabi Dawud AS: Nabi Dawud AS dikenal sebagai raja dan nabi yang memimpin Bani Israil dengan bijaksana. Ia juga dikenal karena kemampuan menyanyi dan menulis kitab Zabur.</item>
+            <item>Deskripsi Nabi Sulaiman AS: Nabi Sulaiman AS, putra Nabi Dawud AS, terkenal karena kebijaksanaannya dan kemampuan berbicara dengan binatang. Ia merupakan raja yang adil dan menguasai kerajaan yang besar.</item>
+            <item>Deskripsi Nabi Ilyas AS: Nabi Ilyas AS diutus kepada kaum Bani Israil yang menyembah berhala. Ia menyeru mereka untuk kembali kepada Allah, dan dikenal karena doanya yang diperkenankan.</item>
+            <item>Deskripsi Nabi Ilyasa AS: Nabi Ilyasa AS adalah penerus Nabi Ilyas AS dan melanjutkan tugasnya dalam menyebarkan ajaran Allah kepada umatnya.</item>
+            <item>Deskripsi Nabi Yunus AS: Nabi Yunus AS dikenal karena kisahnya yang ditelan ikan besar. Ia memohon ampun kepada Allah di dalam perut ikan dan akhirnya diselamatkan, kembali untuk melanjutkan misi dakwah.</item>
+            <item>Deskripsi Nabi Zakaria AS: Nabi Zakaria AS adalah nabi yang berdoa kepada Allah untuk dikaruniai seorang anak. Ia akhirnya dikaruniai Nabi Yahya AS setelah berdoa dengan penuh keyakinan.</item>
+            <item>Deskripsi Nabi Yahya AS: Nabi Yahya AS, putra Nabi Zakaria AS, dikenal karena ketaatannya dan keberaniannya dalam menegakkan kebenaran. Ia dihormati oleh banyak orang sebagai nabi yang saleh.</item>
+            <item>Deskripsi Nabi Isa AS: Nabi Isa AS adalah seorang nabi yang lahir secara mukjizat dari Maryam AS. Ia dikenal karena mukjizatnya dan penyebaran ajaran tentang keesaan Allah.</item>
+            <item>Deskripsi Nabi Muhammad SAW: Nabi Muhammad SAW adalah nabi terakhir yang diutus untuk umat manusia. Beliau menerima wahyu Allah berupa Al-Quran dan mengajarkan umat tentang agama Islam dengan penuh kasih dan kebijaksanaan.</item>
+        </string-array>
+
+        <!-- Array untuk tanggal dan tempat lahir -->
+        <string-array name="tanggal_tempat_lahir">
+            <item>Tanggal dan tempat lahir Nabi Adam AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahir Nabi Adam AS, tetapi ia diciptakan di Surga.</item>
+            <item>Tanggal dan tempat lahir Nabi Idris AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Nuh AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Hud AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Saleh AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Ibrahim AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Lut AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Ismail AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Ishaq AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Yaqub AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Yusuf AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Syuaib AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Ayyub AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Dhulkifli AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Musa AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Harun AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Dawud AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Sulaiman AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Ilyas AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Ilyasa AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Yunus AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Zakaria AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Yahya AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Isa AS: Tidak terdapat informasi pasti mengenai tanggal dan tempat lahirnya.</item>
+            <item>Tanggal dan tempat lahir Nabi Muhammad SAW: Nabi Muhammad SAW lahir pada 12 Rabiul Awal tahun Gajah di Mekkah.</item>
+        </string-array>
+
+        <!-- Array untuk informasi keluarga -->
+        <string-array name="informasi_keluarga">
+            <item>Informasi keluarga Nabi Adam AS: Hawa adalah istri dari Nabi Adam AS, dan mereka memiliki banyak anak, di antaranya Habil dan Qabil.</item>
+            <item>Informasi keluarga Nabi Idris AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Nuh AS: Istrinya bernama Naamah dan memiliki beberapa anak, termasuk Ham, Sam, dan Yafis.</item>
+            <item>Informasi keluarga Nabi Hud AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Saleh AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Ibrahim AS: Istrinya adalah Sarah, dan ia juga memiliki anak dari Hagar, yaitu Ismail.</item>
+            <item>Informasi keluarga Nabi Lut AS: Ia adalah keponakan Nabi Ibrahim AS dan tinggal di Sodom dengan keluarganya.</item>
+            <item>Informasi keluarga Nabi Ismail AS: Istrinya bernama Asma binti Abd Manaf dan memiliki anak, termasuk Nabi Muhammad SAW.</item>
+            <item>Informasi keluarga Nabi Ishaq AS: Istrinya adalah Rifka dan memiliki dua anak, Esau dan Yakub.</item>
+            <item>Informasi keluarga Nabi Yaqub AS: Istrinya adalah Leah dan Rahel, serta memiliki 12 anak yang menjadi nenek moyang suku-suku Israel.</item>
+            <item>Informasi keluarga Nabi Yusuf AS: Istrinya bernama Asenath, dan ia memiliki dua anak, Efraim dan Manasye.</item>
+            <item>Informasi keluarga Nabi Syuaib AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Ayyub AS: Istrinya adalah Rahma, dan mereka memiliki banyak anak.</item>
+            <item>Informasi keluarga Nabi Dhulkifli AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Musa AS: Istrinya adalah Zipporah, dan mereka memiliki dua anak, Gershom dan Eliezer.</item>
+            <item>Informasi keluarga Nabi Harun AS: Istrinya adalah Elishaba, dan ia memiliki beberapa anak, termasuk Nadab dan Abihu.</item>
+            <item>Informasi keluarga Nabi Dawud AS: Istrinya adalah Bathsheba, dan ia memiliki banyak anak, termasuk Sulaiman.</item>
+            <item>Informasi keluarga Nabi Sulaiman AS: Istrinya adalah banyak, termasuk Ratu Sheba.</item>
+            <item>Informasi keluarga Nabi Ilyas AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Ilyasa AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Yunus AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Zakaria AS: Istrinya adalah Elizabeth, dan mereka memiliki Nabi Yahya AS.</item>
+            <item>Informasi keluarga Nabi Yahya AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Isa AS: Belum ada informasi yang spesifik tentang keluarganya.</item>
+            <item>Informasi keluarga Nabi Muhammad SAW: Ibu beliau adalah Aminah binti Wahab, dan ayah beliau adalah Abdullah bin Abdul Muthalib.</item>
+        </string-array>
+
+        <!-- Array untuk pendidikan -->
+        <string-array name="pendidikan">
+            <item>Pendidikan Nabi Adam AS: Diajari langsung oleh Allah tentang nama-nama segala sesuatu.</item>
+            <item>Pendidikan Nabi Idris AS: Dikenal sebagai seorang yang berilmu, tetapi tidak banyak informasi tentang pendidikannya.</item>
+            <item>Pendidikan Nabi Nuh AS: Tidak ada informasi spesifik tentang pendidikan Nuh AS, tetapi ia sangat memahami ajaran Allah.</item>
+            <item>Pendidikan Nabi Hud AS: Tidak ada informasi spesifik tentang pendidikan Hud AS, tetapi ia memahami ajaran Allah.</item>
+            <item>Pendidikan Nabi Saleh AS: Tidak ada informasi spesifik tentang pendidikan Saleh AS, tetapi ia adalah seorang yang berilmu.</item>
+            <item>Pendidikan Nabi Ibrahim AS: Mendapatkan pendidikan spiritual dari ayahnya, Azar, dan melalui pengalamannya sendiri.</item>
+            <item>Pendidikan Nabi Lut AS: Mendapat pendidikan dari Nabi Ibrahim AS.</item>
+            <item>Pendidikan Nabi Ismail AS: Belajar dari Nabi Ibrahim AS dan merupakan orang yang bijaksana.</item>
+            <item>Pendidikan Nabi Ishaq AS: Belajar dari Nabi Ibrahim AS.</item>
+            <item>Pendidikan Nabi Yaqub AS: Belajar dari Nabi Ishaq AS.</item>
+            <item>Pendidikan Nabi Yusuf AS: Mempelajari banyak hal dari ayahnya, Nabi Yaqub AS.</item>
+            <item>Pendidikan Nabi Syuaib AS: Tidak ada informasi spesifik tentang pendidikan Syuaib AS.</item>
+            <item>Pendidikan Nabi Ayyub AS: Dikenal sebagai seorang yang berilmu, tetapi tidak banyak informasi tentang pendidikannya.</item>
+            <item>Pendidikan Nabi Dhulkifli AS: Tidak ada informasi spesifik tentang pendidikan Dhulkifli AS.</item>
+            <item>Pendidikan Nabi Musa AS: Menerima pendidikan dari ibu dan ibu angkatnya, serta mendapatkan wahyu langsung dari Allah.</item>
+            <item>Pendidikan Nabi Harun AS: Belajar dari Nabi Musa AS dan memiliki pengetahuan agama yang mendalam.</item>
+            <item>Pendidikan Nabi Dawud AS: Dikenal sebagai seorang yang bijaksana, mendapatkan pendidikan dari Allah.</item>
+            <item>Pendidikan Nabi Sulaiman AS: Dikenal sebagai seorang yang bijaksana, mengikuti jejak ayahnya, Nabi Dawud AS.</item>
+            <item>Pendidikan Nabi Ilyas AS: Dikenal sebagai seorang yang sangat saleh, tetapi tidak banyak informasi tentang pendidikannya.</item>
+            <item>Pendidikan Nabi Ilyasa AS: Dikenal sebagai seorang yang sangat saleh, tetapi tidak banyak informasi tentang pendidikannya.</item>
+            <item>Pendidikan Nabi Yunus AS: Tidak ada informasi spesifik tentang pendidikan Yunus AS, tetapi ia sangat memahami ajaran Allah.</item>
+            <item>Pendidikan Nabi Zakaria AS: Dikenal sebagai seorang yang saleh dan berilmu.</item>
+            <item>Pendidikan Nabi Yahya AS: Dikenal sebagai seorang yang saleh, tetapi tidak banyak informasi tentang pendidikannya.</item>
+            <item>Pendidikan Nabi Isa AS: Mendapatkan pendidikan spiritual yang tinggi, tetapi tidak ada informasi spesifik.</item>
+            <item>Pendidikan Nabi Muhammad SAW: Belajar dari berbagai sumber, termasuk dari kakeknya, Abdul Muthalib, dan mempelajari nilai-nilai luhur dari lingkungan sekitarnya.</item>
+        </string-array>
+
+        <!-- Array untuk misi -->
+        <string-array name="misi">
+            <item>Misi Nabi Adam AS: Mengajarkan umat manusia tentang keesaan Allah dan mengajarkan adab serta ilmu pengetahuan.</item>
+            <item>Misi Nabi Idris AS: Menyebarkan ajaran Allah dan menegakkan keadilan.</item>
+            <item>Misi Nabi Nuh AS: Memperingatkan umatnya tentang azab Allah dan menyelamatkan orang-orang beriman.</item>
+            <item>Misi Nabi Hud AS: Menyampaikan wahyu Allah kepada kaum Aad yang ingkar.</item>
+            <item>Misi Nabi Saleh AS: Menyampaikan ajaran Allah kepada kaum Tsamud yang ingkar.</item>
+            <item>Misi Nabi Ibrahim AS: Menyebarkan ajaran tentang keesaan Allah dan menegakkan kebenaran.</item>
+            <item>Misi Nabi Lut AS: Menyebarkan ajaran Allah kepada kaum Sodom yang ingkar.</item>
+            <item>Misi Nabi Ismail AS: Menyebarkan ajaran Allah dan mendirikan Kabah di Makkah.</item>
+            <item>Misi Nabi Ishaq AS: Melanjutkan misi ayahnya, Nabi Ibrahim AS, dalam menyebarkan ajaran Allah.</item>
+            <item>Misi Nabi Yaqub AS: Melanjutkan misi Nabi Ishaq AS dan menyebarkan ajaran Allah.</item>
+            <item>Misi Nabi Yusuf AS: Mengajarkan kebaikan dan menegakkan keadilan di Mesir.</item>
+            <item>Misi Nabi Syuaib AS: Menyampaikan wahyu Allah kepada kaum Madyan yang ingkar.</item>
+            <item>Misi Nabi Ayyub AS: Menjadi teladan dalam kesabaran dan keteguhan iman.</item>
+            <item>Misi Nabi Dhulkifli AS: Menyebarkan ajaran Allah dan menjadi teladan bagi umatnya.</item>
+            <item>Misi Nabi Musa AS: Membebaskan Bani Israel dari perbudakan dan mengajarkan hukum Allah.</item>
+            <item>Misi Nabi Harun AS: Mendukung misi Nabi Musa AS dan menyebarkan ajaran Allah.</item>
+            <item>Misi Nabi Dawud AS: Mengajarkan hukum Allah dan menjadi raja yang adil.</item>
+            <item>Misi Nabi Sulaiman AS: Memimpin umat dengan kebijaksanaan dan menegakkan keadilan.</item>
+            <item>Misi Nabi Ilyas AS: Mengajak umat untuk kembali kepada ajaran Allah.</item>
+            <item>Misi Nabi Ilyasa AS: Melanjutkan misi Nabi Ilyas AS dalam menyebarkan ajaran Allah.</item>
+            <item>Misi Nabi Yunus AS: Mengajak umat untuk bertaubat dan kembali kepada Allah.</item>
+            <item>Misi Nabi Zakaria AS: Mengajarkan ajaran Allah dan mendidik Nabi Yahya AS.</item>
+            <item>Misi Nabi Yahya AS: Menyampaikan ajaran Allah dan menjadi contoh bagi umatnya.</item>
+            <item>Misi Nabi Isa AS: Menyampaikan Injil dan menegakkan ajaran Allah.</item>
+            <item>Misi Nabi Muhammad SAW: Menyampaikan wahyu Allah dan menyebarkan ajaran Islam ke seluruh dunia.</item>
+        </string-array>
+
+
+
+    <string name="about_title">Tentang Aplikasi</string>
+    <string name="about_description">Aplikasi ini menceritakan kisah-kisah para nabi dan rasul dalam Islam.</string>
+    <string name="developer_name">Nama Pengembang</string>
+    <string name="developer_email">email@dicoding.com</string>
+
+    <!-- Pastikan ada item di dalam array judul_nabi -->
+    <string-array name="judul_nabi">
+        <item>Nabi Adam AS</item>
+        <item>Nabi Idris AS</item>
+        <item>Nabi Nuh AS</item>
+        <item>Nabi Hud AS</item>
+        <item>Nabi Saleh AS</item>
+        <item>Nabi Ibrahim AS</item>
+        <item>Nabi Lut AS</item>
+        <item>Nabi Ismail AS</item>
+        <item>Nabi Ishaq AS</item>
+        <item>Nabi Yaqub AS</item>
+        <item>Nabi Yusuf AS</item>
+        <item>Nabi Syuaib AS</item>
+        <item>Nabi Ayyub AS</item>
+        <item>Nabi Dhulkifli AS</item>
+        <item>Nabi Musa AS</item>
+        <item>Nabi Harun AS</item>
+        <item>Nabi Dawud AS</item>
+        <item>Nabi Sulaiman AS</item>
+        <item>Nabi Ilyas AS</item>
+        <item>Nabi Ilyasa AS</item>
+        <item>Nabi Yunus AS</item>
+        <item>Nabi Zakaria AS</item>
+        <item>Nabi Yahya AS</item>
+        <item>Nabi Isa AS</item>
+        <item>Nabi Muhammad SAW</item>
+    </string-array>
+</resources>
+
